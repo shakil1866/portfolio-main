@@ -315,9 +315,7 @@ line-height: 1.43em;
   .home__social-link:hover {
     opacity: 1;
   }
-@media (max-width: 900px) {
-  
-}
+
   /********************************* hello  */
   .hello__details {
     margin-bottom: 1.67em;
@@ -1025,7 +1023,7 @@ padding-bottom: 6.25rem;
 /* for medium devices */
 @media screen and (max-width: 768px ) {
 .container {
-  max-width: 540px;
+  max-width: 640px;
 }
 
 .contact__container,
