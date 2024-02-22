@@ -315,7 +315,9 @@ line-height: 1.43em;
   .home__social-link:hover {
     opacity: 1;
   }
-
+@media (max-width: 900px) {
+  
+}
   /********************************* hello  */
   .hello__details {
     margin-bottom: 1.67em;
